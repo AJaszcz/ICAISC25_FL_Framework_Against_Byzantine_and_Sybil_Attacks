@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "A Centralized Federated Learning Framework with Security Aspects Against Byzantine and Sybil Attacks"
+authors:
+  - family-names: "Jaszcz"
+    given-names: "Antoni"
+    orcid: "https://orcid.org/0000-0002-8997-0331"
+  - family-names: "Woźniak"
+    given-names: "Marcin"
+    orcid: "https://orcid.org/0000-0002-9073-5347"
+  - family-names: "Pleszczyński"
+    given-names: "Mariusz"
+    orcid: "https://orcid.org/0000-0002-4971-5360" 
+  - family-names: "Zielonka"
+    given-names: "Adam"
+    orcid: https://orcid.org/{0000-0002-3850-8577
+license: "CC BY 4.0"
+url: "https://github.com/AJaszcz/ICAISC25_FL_Framework_Against_Byzantine_and_Sybil_Attacks"
+message: "Please cite this dataset and the associated paper when it becomes available."
